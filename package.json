@@ -1,0 +1,28 @@
+{
+  "name": "wolverines-bug-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwhendershott/wolverines-bug-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwhendershott/wolverines-bug-tracker/issues"
+  },
+  "homepage": "https://github.com/jwhendershott/wolverines-bug-tracker#readme",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
