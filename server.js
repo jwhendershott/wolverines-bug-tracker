@@ -1,3 +1,5 @@
+// Start up by running 'npm run devStart' in node and reach at localhost:3000.
+
 const express = require('express');
 const app = express();
 
